@@ -2,81 +2,80 @@
 
 # 1Paste
 
-**你复制过的一切，一键找回。**
-_Everything you've copied, one keystroke away._
+**Everything you've copied, one keystroke away.**
 
-一款常驻菜单栏的 macOS 剪贴板管理器 · 用 <kbd>⌘</kbd><kbd>⇧</kbd><kbd>V</kbd> 唤出
-
-<br>
-
-[![版本](https://img.shields.io/github/v/release/xiongjiwei/1Paste-Releases?style=flat-square&label=%E7%89%88%E6%9C%AC&color=44cc11)](https://github.com/xiongjiwei/1Paste-Releases/releases/latest)
-&nbsp;
-[![平台](https://img.shields.io/badge/%E5%B9%B3%E5%8F%B0-macOS%2026+-007ec6?style=flat-square&logo=apple&logoColor=white)](https://github.com/xiongjiwei/1Paste-Releases/releases/latest)
-&nbsp;
-[![价格](https://img.shields.io/badge/%E4%BB%B7%E6%A0%BC-%E5%85%8D%E8%B4%B9-8a2be2?style=flat-square)](https://github.com/xiongjiwei/1Paste-Releases/releases/latest/download/1Paste.dmg)
-&nbsp;
-[![下载](https://img.shields.io/github/downloads/xiongjiwei/1Paste-Releases/total?style=flat-square&label=%E4%B8%8B%E8%BD%BD&color=fa4e49)](https://github.com/xiongjiwei/1Paste-Releases/releases)
+A menu-bar clipboard manager for macOS · summoned with <kbd>⌘</kbd><kbd>⇧</kbd><kbd>V</kbd>
 
 <br>
 
-### [⬇ 下载最新版](https://github.com/xiongjiwei/1Paste-Releases/releases/latest/download/1Paste.dmg) &nbsp;·&nbsp; [所有版本](https://github.com/xiongjiwei/1Paste-Releases/releases) &nbsp;·&nbsp; [官网](https://xiongjiwei.github.io/1Paste-Releases/)
+[![Release](https://img.shields.io/github/v/release/xiongjiwei/1Paste-Releases?style=flat-square&label=release&color=44cc11)](https://github.com/xiongjiwei/1Paste-Releases/releases/latest)
+&nbsp;
+[![Platform](https://img.shields.io/badge/platform-macOS%2026+-007ec6?style=flat-square&logo=apple&logoColor=white)](https://github.com/xiongjiwei/1Paste-Releases/releases/latest)
+&nbsp;
+[![Price](https://img.shields.io/badge/price-free-8a2be2?style=flat-square)](https://github.com/xiongjiwei/1Paste-Releases/releases/latest/download/1Paste.dmg)
+&nbsp;
+[![Downloads](https://img.shields.io/github/downloads/xiongjiwei/1Paste-Releases/total?style=flat-square&label=downloads&color=fa4e49)](https://github.com/xiongjiwei/1Paste-Releases/releases)
 
-**中文** &nbsp;|&nbsp; [English](README.en.md)
+<br>
+
+### [⬇ Download](https://github.com/xiongjiwei/1Paste-Releases/releases/latest/download/1Paste.dmg) &nbsp;·&nbsp; [Releases](https://github.com/xiongjiwei/1Paste-Releases/releases) &nbsp;·&nbsp; [Website](https://xiongjiwei.github.io/1Paste-Releases/)
+
+**English** &nbsp;|&nbsp; [中文](README.zh.md)
 
 </div>
 
 ---
 
-## 简介
+## Overview
 
-1Paste 常驻在菜单栏，随时按下 <kbd>⌘⇧V</kbd> 就能翻出你复制过的所有内容——文本、图片、文件、富文本，全都替你记着。所有数据只存在你的 Mac 上，不联网、不登录、不上传。
+1Paste lives in your menu bar. Hit <kbd>⌘⇧V</kbd> anywhere to bring back everything you've copied — text, images, files, and rich content. All data stays on your Mac: no account, no sync, no tracking.
 
-## 功能特性
+## Features
 
-| | 功能 | 说明 |
+| | Feature | Description |
 |---|---|---|
-| 📋 | **全类型历史** | 文本、图片、文件、富文本一网打尽；自动去重，还记得每条内容来自哪个应用。 |
-| ⌨️ | **全局快捷键** | 默认 <kbd>⌘⇧V</kbd> 随时唤出面板，也可以录制成任意顺手的组合键。 |
-| 🔍 | **即时搜索** | 全文检索加类型筛选，几百条历史里也能一眼定位。 |
-| ⚡ | **自动粘贴** | 选中即粘贴，内容直接落到你刚才所在的输入框，不用再手动 <kbd>⌘V</kbd>。 |
-| 🎯 | **Vim 模式** | 用 `hjkl` 在历史里穿梭，双手不离键盘。 |
-| 📍 | **面板跟随焦点** | 面板可跟随鼠标、固定位置，或直接出现在文本光标旁边。 |
-| 🧹 | **容量与清理** | 自由设定保留条数，超出自动清理；也能按天/周/月一键手动清空。 |
-| 🔒 | **隐私优先** | 所有内容只存在本机，不联网、不登录、不上传。 |
-| 🔄 | **自动更新与主题** | 内置 Sparkle 自动更新；支持浅色/深色主题，中英文界面随心切换。 |
+| 📋 | **Everything, remembered** | Text, images, files and rich content — captured, de-duplicated, and tagged with the app they came from. |
+| ⌨️ | **Global hotkey** | Summon the panel anywhere with <kbd>⌘⇧V</kbd> by default — or record any combo that suits you. |
+| 🔍 | **Instant search** | Full-text search plus type filters find the right snippet even hundreds of entries deep. |
+| ⚡ | **Auto-paste** | Pick an item and it drops straight into the field you were typing in — no extra <kbd>⌘V</kbd>. |
+| 🎯 | **Vim mode** | Move through history with `hjkl` and keep your hands on the keyboard. |
+| 📍 | **Follows your focus** | Show the panel by the mouse, in a fixed spot, or right at your text caret. |
+| 🧹 | **Capacity & cleanup** | Set how much history to keep — older items prune automatically, or clear by day, week, or month. |
+| 🔒 | **Private by design** | Everything stays on your Mac — no account, no sync, no tracking. |
+| 🔄 | **Updates & themes** | Sparkle keeps it up to date. Light and dark themes, with English and 中文 interfaces. |
 
-## 安装
+## Installation
 
-1. **下载并安装** — 打开 DMG，把 1Paste 拖进「应用程序」。
-2. **按下 <kbd>⌘⇧V</kbd>** — 启动后随时按下快捷键唤出面板，正常复制即可开始积累历史。
-3. **（可选）开启权限** — 在系统设置里授予「辅助功能」权限，即可解锁自动粘贴与光标跟随。
+1. **Download & install** — open the DMG and drag 1Paste into Applications.
+2. **Press <kbd>⌘⇧V</kbd>** — launch it, hit the hotkey anywhere, and keep copying as usual.
+3. **(Optional) grant access** — grant Accessibility in System Settings to unlock auto-paste and caret-follow.
 
-## 系统要求
+## Requirements
 
-- macOS 26 或更新版本
-- Apple Silicon 与 Intel
+- macOS 26 or later
+- Apple Silicon & Intel
 
-## 更新
+## Updates
 
-内置 [Sparkle](https://sparkle-project.org/) 自动更新，应用会自动检查并提示新版本。你也可以随时在 [Releases](https://github.com/xiongjiwei/1Paste-Releases/releases) 页面手动下载。
+Built-in [Sparkle](https://sparkle-project.org/) auto-updates check for new versions automatically. You can also grab any build manually from the [Releases](https://github.com/xiongjiwei/1Paste-Releases/releases) page.
 
-## 关于本仓库
+## About this repository
 
-本仓库仅托管 1Paste 的**发布产物**与 **Sparkle 更新源**，不包含应用源代码：
+This repository hosts 1Paste's **release artifacts** and **Sparkle update feed** only — it does not contain the app source.
 
-- `index.html` — GitHub Pages 落地页
-- `releases/` — 每个版本的 `1Paste.dmg` 安装包
-- Sparkle `appcast.xml` — 自动更新源
+- `index.html` — GitHub Pages landing page
+- `releases/` — the `1Paste.dmg` for each release
+- Sparkle `appcast.xml` — auto-update feed
 
-## 隐私
+## Privacy
 
-1Paste 不收集任何数据。剪贴板历史全部保存在本机，绝不上传。
+1Paste collects nothing. Your clipboard history lives entirely on your Mac and is never uploaded.
 
 ---
 
 <div align="center">
 
-**让剪贴板拥有记忆**
+**Give your clipboard a memory**
 
 © 2026 1Paste
 
