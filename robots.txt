@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://xiongjiwei.github.io/1Paste-Releases/sitemap.xml
