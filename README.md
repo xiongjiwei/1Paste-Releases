@@ -11,7 +11,7 @@ _Everything you've copied, one keystroke away._
 [所有版本 / Releases](https://github.com/xiongjiwei/1Paste-Releases/releases) ·
 [官网 / Website](https://xiongjiwei.github.io/1Paste-Releases/)
 
-免费 · macOS 26+ · 已签名并公证 (Signed &amp; notarized)
+免费 · macOS 26+
 
 </div>
 
@@ -34,7 +34,7 @@ _Everything you've copied, one keystroke away._
 | 🎯 | **Vim 模式** · Vim mode | 用 `hjkl` 在历史里穿梭，双手不离键盘。 |
 | 📍 | **面板跟随焦点** · Follows your focus | 面板可跟随鼠标、固定位置，或直接出现在文本光标旁边。 |
 | 🧹 | **容量与清理** · Capacity &amp; cleanup | 自由设定保留条数，超出自动清理；也能按天/周/月一键手动清空。 |
-| 🔒 | **隐私优先** · Private by design | 所有内容只存在本机，不联网、不登录、不上传；安装包已签名并经 Apple 公证。 |
+| 🔒 | **隐私优先** · Private by design | 所有内容只存在本机，不联网、不登录、不上传。 |
 | 🔄 | **自动更新与主题** · Updates &amp; themes | 内置 Sparkle 自动更新；支持浅色/深色主题，中英文界面随心切换。 |
 
 ## 安装 / Installation
