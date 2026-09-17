@@ -8,10 +8,13 @@ A menu-bar clipboard manager for macOS · summoned with <kbd>⌘</kbd><kbd>⇧</
 
 <br>
 
-[![Latest release](https://img.shields.io/github/v/release/xiongjiwei/1Paste-Releases?style=for-the-badge&label=latest&labelColor=1d1d1f&color=007aff)](https://github.com/xiongjiwei/1Paste-Releases/releases/latest)
-[![Platform](https://img.shields.io/badge/macOS-26%2B-000000?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/xiongjiwei/1Paste-Releases/releases/latest)
-[![Price](https://img.shields.io/badge/price-free-34c759?style=for-the-badge)](https://github.com/xiongjiwei/1Paste-Releases/releases/latest/download/1Paste.dmg)
-[![Downloads](https://img.shields.io/github/downloads/xiongjiwei/1Paste-Releases/total?style=for-the-badge&label=downloads&labelColor=1d1d1f&color=5e5ce6)](https://github.com/xiongjiwei/1Paste-Releases/releases)
+[![Release](https://img.shields.io/github/v/release/xiongjiwei/1Paste-Releases?style=flat-square&label=release&color=44cc11)](https://github.com/xiongjiwei/1Paste-Releases/releases/latest)
+&nbsp;
+[![Platform](https://img.shields.io/badge/platform-macOS%2026+-007ec6?style=flat-square&logo=apple&logoColor=white)](https://github.com/xiongjiwei/1Paste-Releases/releases/latest)
+&nbsp;
+[![Price](https://img.shields.io/badge/price-free-8a2be2?style=flat-square)](https://github.com/xiongjiwei/1Paste-Releases/releases/latest/download/1Paste.dmg)
+&nbsp;
+[![Downloads](https://img.shields.io/github/downloads/xiongjiwei/1Paste-Releases/total?style=flat-square&label=downloads&color=fa4e49)](https://github.com/xiongjiwei/1Paste-Releases/releases)
 
 <br>
 
@@ -72,7 +75,7 @@ This repository hosts 1Paste's **release artifacts** and **Sparkle update feed**
 
 <div align="center">
 
-**Give your clipboard a memory.**
+**Give your clipboard a memory**
 
 © 2026 1Paste
 

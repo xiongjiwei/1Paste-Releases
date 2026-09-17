@@ -9,10 +9,13 @@ _Everything you've copied, one keystroke away._
 
 <br>
 
-[![最新版本](https://img.shields.io/github/v/release/xiongjiwei/1Paste-Releases?style=for-the-badge&label=%E6%9C%80%E6%96%B0%E7%89%88%E6%9C%AC&labelColor=1d1d1f&color=007aff)](https://github.com/xiongjiwei/1Paste-Releases/releases/latest)
-[![平台](https://img.shields.io/badge/macOS-26%2B-000000?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/xiongjiwei/1Paste-Releases/releases/latest)
-[![价格](https://img.shields.io/badge/%E4%BB%B7%E6%A0%BC-%E5%85%8D%E8%B4%B9-34c759?style=for-the-badge)](https://github.com/xiongjiwei/1Paste-Releases/releases/latest/download/1Paste.dmg)
-[![下载量](https://img.shields.io/github/downloads/xiongjiwei/1Paste-Releases/total?style=for-the-badge&label=%E4%B8%8B%E8%BD%BD%E9%87%8F&labelColor=1d1d1f&color=5e5ce6)](https://github.com/xiongjiwei/1Paste-Releases/releases)
+[![版本](https://img.shields.io/github/v/release/xiongjiwei/1Paste-Releases?style=flat-square&label=%E7%89%88%E6%9C%AC&color=44cc11)](https://github.com/xiongjiwei/1Paste-Releases/releases/latest)
+&nbsp;
+[![平台](https://img.shields.io/badge/%E5%B9%B3%E5%8F%B0-macOS%2026+-007ec6?style=flat-square&logo=apple&logoColor=white)](https://github.com/xiongjiwei/1Paste-Releases/releases/latest)
+&nbsp;
+[![价格](https://img.shields.io/badge/%E4%BB%B7%E6%A0%BC-%E5%85%8D%E8%B4%B9-8a2be2?style=flat-square)](https://github.com/xiongjiwei/1Paste-Releases/releases/latest/download/1Paste.dmg)
+&nbsp;
+[![下载](https://img.shields.io/github/downloads/xiongjiwei/1Paste-Releases/total?style=flat-square&label=%E4%B8%8B%E8%BD%BD&color=fa4e49)](https://github.com/xiongjiwei/1Paste-Releases/releases)
 
 <br>
 
@@ -73,7 +76,7 @@ _Everything you've copied, one keystroke away._
 
 <div align="center">
 
-**让剪贴板拥有记忆。**
+**让剪贴板拥有记忆**
 
 © 2026 1Paste
 
