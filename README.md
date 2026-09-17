@@ -28,7 +28,7 @@ A menu-bar clipboard manager for macOS · summoned with <kbd>⌘</kbd><kbd>⇧</
 
 ## Overview
 
-1Paste lives in your menu bar. Hit <kbd>⌘⇧V</kbd> anywhere to bring back everything you've copied — text, images, files, and rich content. All data stays on your Mac: no account, no sync, no tracking.
+**1Paste is a free clipboard manager for macOS** that keeps a searchable history of everything you copy. It lives in your menu bar — hit <kbd>⌘⇧V</kbd> anywhere to bring back text, images, files, and rich content you copied minutes or days ago. A fast, private, keyboard-first alternative to clipboard history tools like Paste, Maccy, and Raycast's clipboard, 1Paste keeps all data on your Mac: no account, no sync, no tracking.
 
 ## Features
 
@@ -70,6 +70,27 @@ This repository hosts 1Paste's **release artifacts** and **Sparkle update feed**
 ## Privacy
 
 1Paste collects nothing. Your clipboard history lives entirely on your Mac and is never uploaded.
+
+## FAQ
+
+**What is 1Paste?**
+1Paste is a menu-bar clipboard manager for macOS that records a searchable history of everything you copy — text, images, files, and rich content — so you can paste any of it again with <kbd>⌘⇧V</kbd>.
+
+**Is 1Paste free?**
+Yes. 1Paste is free to download and use.
+
+**Which macOS versions are supported?**
+macOS 26 or later, on both Apple Silicon and Intel Macs.
+
+**Does 1Paste upload my clipboard data?**
+No. Everything stays on your Mac. There is no account, no sync, and no tracking.
+
+**How do I open 1Paste?**
+Press <kbd>⌘⇧V</kbd> from any app to summon the panel. You can rebind this to any shortcut you like.
+
+## Keywords
+
+Clipboard manager for macOS · clipboard history · paste manager · copy history · menu-bar clipboard app · macOS productivity utility · <kbd>⌘⇧V</kbd>
 
 ---
 
